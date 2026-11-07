@@ -2,6 +2,8 @@
 
 A portfolio built with the Next.js App Router, React, TypeScript, and Tailwind CSS. All application components are Server Components.
 
+Check it out live here: https://wdd430-portfolio-eight-iota.vercel.app/
+
 ## Run locally
 
 ```bash
